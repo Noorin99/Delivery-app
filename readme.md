@@ -28,8 +28,8 @@
 * I want to be able to provide meal’s time preparing for the customer so that I can offer a good service quality.
 * I want to be able to update restaurants' daily promotions so that I can attract more customers.
       
-   <h3>
-      As a delivery man
+ <h3>
+    As a delivery man
 </h3>   
  
 * I want to receive addresses and contact information for customers who ordered a meal so that I can deliver meals for customers.

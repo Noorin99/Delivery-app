@@ -87,10 +87,10 @@
    * If he/she choose applying the address manually, the same actions used without using current location.
    
 
-    <h4>
+   <h4>
      Goal: Online payment method and daily promotions (Fourth and fifth feature)
-    </h4>  
+   </h4>  
 
-    Actions:
-    * Customer opens the home page and finds colorful daily promotions 
-    * When customers clicks on order button he is able to choose the payment method ( online or in person)
+   Actions:
+   * Customer opens the home page and finds colorful daily promotions 
+   * When customers clicks on order button he is able to choose the payment method ( online or in person)

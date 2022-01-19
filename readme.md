@@ -52,6 +52,7 @@
    * Order form pops up
    * Customer fills the form 
    * Then, he/she gets the estimated time for meal to be prepared
+   * Click done button
    * A success message appears for customer with information about restaraunt location.
 
 
@@ -65,6 +66,7 @@
    Actions:
    * Click on order the meal button on menu page
    * Fill order form
+   * Click done button
    * Success message will appear after ordering the meal with arrive easily to our restaraunt button
    * Click on arrive easily to our restaraunt button
    * Google maps opens and depending on user location shows a directions for user
@@ -72,6 +74,17 @@
    <h4>
      Goal: Delivery feature by address (Third feature)
    </h4>
+   
+   Actions:
+   * Click on order button on menu page
+   * Customer recieves a pop up message whether to use delivery service or just order a meal
+   * Customer choose the delivery service 
+   * New popped up message appears whether using current address or just apply it manually
+   * If the customer chooses to apply for current address, he/she can use their location to fill up the form
+   * Customer fills a contact information
+   * Clicks on done button
+   * Success message appears
+   * If he/she choose applying the address manually, the same actions used without using current location.
    
    
       

@@ -33,4 +33,28 @@
 </h3>   
  
 * I want to receive addresses and contact information for customers who ordered a meal so that I can deliver meals for customers.
+
+ <h2>
+    User journey
+    </h2>    
+  
+   <h4>
+     Goal: View menu, order a meal and view restaraunt’s location (First feature)
+   </h4>
+   
+   Actions:
+   * Customer opens the application and view the home page.
+   * At home page, customer finds informations about restaurant and button to go to menu page
+   * Customer clicks on menu page button 
+   * Then, view different meals with its cost and ingredients
+   * Customer able to search for a specific meal
+   * When customer decides which meal to order, he clicks on order button
+   * Order form pops up
+   * Customer fills the form 
+   * Then, he/she gets the estimated time for meal to be prepared
+   * A success message appears for customer with information about restaraunt location.
+
+
+[![](https://i.imgur.com/KYx3gCP.png)
+](https://)
       

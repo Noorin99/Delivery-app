@@ -57,4 +57,21 @@
 
 [![](https://i.imgur.com/KYx3gCP.png)
 ](https://)
+
+  <h4>
+     Goal: Get directions for the restaraunt (Second feature)
+   </h4>
+   
+   Actions:
+   * Click on order the meal button on menu page
+   * Fill order form
+   * Success message will appear after ordering the meal with arrive easily to our restaraunt button
+   * Click on arrive easily to our restaraunt button
+   * Google maps opens and depending on user location shows a directions for user
+   
+   <h4>
+     Goal: Delivery feature by address (Third feature)
+   </h4>
+   
+   
       

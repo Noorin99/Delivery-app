@@ -48,11 +48,11 @@
    * Customer clicks on menu page button 
    * Then, view different meals with its cost and ingredients
    * Customer able to search for a specific meal
-   * When customer decides which meal to order, he clicks on order button
+   * When customer decides which meal to order, he clicks on add button
    * Order form pops up
    * Customer fills the form 
-   * Then, he/she gets the estimated time for meal to be prepared
    * Click done button
+   * Then, he/she gets the estimated time for meal to be prepared and a specific number for the order with date and time for the order
    * A success message appears for customer with information about restaraunt location.
 
 
@@ -86,5 +86,11 @@
    * Success message appears
    * If he/she choose applying the address manually, the same actions used without using current location.
    
-   
-      
+
+    <h4>
+     Goal: Online payment method and daily promotions (Fourth and fifth feature)
+    </h4>  
+
+    Actions:
+    * Customer opens the home page and finds colorful daily promotions 
+    * When customers clicks on order button he is able to choose the payment method ( online or in person)
